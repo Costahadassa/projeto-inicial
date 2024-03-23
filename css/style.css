@@ -3,3 +3,21 @@
 /* Aqui está um comentário de várias linhas
    que é muito longo e será dividido em várias linhas
    para facilitar a leitura. */
+
+
+/*
+    Exemplo de Seletores
+*/
+
+/* Exemplo de Seletores do tipo TAG */
+
+header{
+   font-size: 4rem;
+}
+
+h1 {
+   background-color: #000000;
+   color: rgb(220, 173, 173);
+   text-align: center;
+   font-size: 2em;
+}
